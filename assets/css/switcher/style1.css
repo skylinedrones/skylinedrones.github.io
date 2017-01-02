@@ -1,0 +1,91 @@
+#style-switcher h2 a { background: #15191C none repeat scroll 0 0 }
+
+/*START SCROLL TO TOP*/
+.topcontrol {background: #34495e none repeat scroll 0 0;}
+/*END SCROLL TO TOP*/
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:hover,
+.navbar-default .navbar-nav>.active>a:focus {
+    color: white !important;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>.open>a,
+.navbar-default .navbar-nav>.open>a:hover,
+.navbar-default .navbar-nav>.open>a:focus {
+    color: #34495e !important;
+    background-color: transparent;
+}
+
+.menu-top li a:hover { color: #34495e!important }
+
+.navbar-default.menu-shrink li a:hover { color: #34495e !important }
+.navbar-default .navbar-toggle .icon-bar { background-color: #34495e }
+
+
+.section-title span {background: #34495e none repeat scroll 0 0;}
+
+.btn-home-bg {background: #34495e none repeat scroll 0 0;border: 2px solid #34495e;}
+
+.about_single i {background: #34495e;border: 2px solid #34495e;}
+
+.about_single:hover i {color: #34495e;border: 2px solid #34495e;}
+
+.about_single span {background: #34495e none repeat scroll 0 0;}
+
+.about_single:hover h4 { color: #34495e }
+
+.single_feature i {background: #34495e none repeat scroll 0 0;}
+
+.single_feature:hover {background: #34495e none repeat scroll 0 0;}
+
+.single_feature:hover i {color: #34495e;}
+
+.service:hover {background:#34495e;border: 2px solid #34495e;}
+
+.service:hover .icon {color: #34495e;}
+
+.our_work_menu ul li:hover,
+.our_work_menu ul li.active {background: #34495e none repeat scroll 0 0;border-color: #34495e;}
+
+.sing_link_img a:hover {background: #34495e;}
+
+.single_our_work:hover {background: #34495e;}
+
+.btn-portfolio-bg {background: #34495e none repeat scroll 0 0;}
+
+.carousel-indicators li {border: 1px solid #34495e;background: #34495e;}
+
+.counter i {background: #34495e none repeat scroll 0 0;border: 2px solid #34495e;}
+
+.counter:hover i{background:none;color:#34495e;border:2px solid #34495e}
+
+.social > li:after {background: #34495e none repeat scroll 0 0;}
+
+.team_text ul.social li a i:hover {border-color: #e8e8e9;background: #34495e;}
+
+.social > li:hover:after { background: #34495e }
+
+.progress-bar > span {background: #34495e none repeat scroll 0 0;}
+
+.pricing-table-default:hover{ background: #34495e;}
+
+.pricing-head .price {background-color: #34495e;}
+
+.pricing-table-default:hover .price{color: #34495e;}
+
+.pricing-table-default:hover .btn{color: #34495e;}
+
+.blog-text i { color: #34495e }
+
+.blog-text span {color: #34495e;}
+
+.btn-blog-bg:hover{border: 1px solid #34495e;color:#34495e;}
+
+.form-control:focus {border: 1px solid #34495e;}
+
+.btn-contact-bg {background: #34495e none repeat scroll 0 0;}
+
+.contact-address {background: #34495e none repeat scroll 0 0;}
+
+.copyright a {color: #34495e;}
