@@ -1253,7 +1253,7 @@ padding: 100px 0;
 }
 .single_address {
 border: 1px solid rgba(255, 255, 255, 0.25);
-padding: 20px 0;
+padding: 40px 0;
 }
 @media only screen and (max-width:768px) { 
     .single_address { margin-bottom: 30px }
@@ -1326,6 +1326,11 @@ padding: 20px 0;
     background: #40BFF5;
     box-shadow: 0 0 0 0px #40BFF5;
     border: 1px solid #40BFF5;
+}
+.f_instagram:hover {
+    background: #8a3ab9;
+    box-shadow: 0 0 0 0px #8a3ab9;
+    border: 1px solid #8a3ab9;
 }
 .f_google:hover {
     background: #EB5E4C;
